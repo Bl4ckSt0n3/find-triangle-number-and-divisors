@@ -16,5 +16,8 @@
     .
   and so on.
   
+  I've tried that find a triangle number with given index to function as paramether in the C file. However, you can see that
+  the divisors of this triangle number when you run this file. 
   
+  Don't forget, the main function is empty if you run as empty you will have an error probably !!! 
 </p>
