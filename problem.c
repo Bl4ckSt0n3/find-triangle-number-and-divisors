@@ -7,7 +7,6 @@ int findTriangle(int);
 
 int main()
 {
-        findTriangle(7);
         return 0;
 }
 
